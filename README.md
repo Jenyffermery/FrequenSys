@@ -51,6 +51,16 @@ Os estudantes também serão beneficiados de forma indireta, por meio de um acom
 
 A proposta consiste em desenvolver um sistema de monitoramento que reúna informações relacionadas à frequência dos estudantes e apresente indicadores de forma visual e organizada. O sistema deverá auxiliar na identificação de alunos que necessitam de maior atenção, permitindo que gestores e equipes pedagógicas acompanhem a situação e possam tomar decisões com base nos dados disponíveis.
 
+## Funcionalidades Previstas:
+
+A primeira versão do dashboard web contará com as seguintes funcionalidades:
+
+* **Dashboard de indicadores escolares:** apresentação visual de dados relacionados à frequência e à situação dos estudantes.
+* **Monitoramento da frequência:** acompanhamento dos registros de presença e ausência dos alunos.
+* **Identificação de alunos em situação de atenção:** sinalização de estudantes que apresentem indicadores relacionados ao risco de evasão.
+* **Filtros para análise:** possibilidade de filtrar os dados por turma, período, série e situação do aluno.
+* **Alertas de baixa frequência:** geração de sinalizações para estudantes que atendam aos critérios definidos pela equipe para acompanhamento.
+
 ## Tecnologias Previstas:
 
 As tecnologias que serão utilizadas no desenvolvimento da solução ainda estão em processo de definição pela equipe e serão estabelecidas de acordo com os requisitos e necessidades identificados ao longo do projeto. 
