@@ -14,10 +14,6 @@ Ronaldo de Souza Paixão Júnior - 01604034 : UX/UI e prototipação.
 
 Rosilene da Silva Lima - 01619051 : Dashboard e análise de dados.
 
-## Link do desafio escolhido na plataforma CORETO: 
-
-https://coreto.app.emprel.gov.br/banco-de-bo/monitoramento-da-evasao-escolar-em-tempo-real
-
 # Monitoramento da Evasão Escolar em Tempo Real:
 
 A evasão escolar é um problema que pode comprometer a continuidade da formação dos estudantes e dificultar o acompanhamento de situações que podem levar ao abandono escolar. Quando informações relacionadas à frequência e à participação dos alunos não são acompanhadas de forma adequada e em tempo hábil, a instituição de ensino pode encontrar dificuldades para identificar estudantes que necessitam de atenção e intervenção.
@@ -27,6 +23,14 @@ Diante desse cenário, o projeto **Monitoramento da Evasão Escolar em Tempo Rea
 A solução deverá possibilitar o acompanhamento dos estudantes por meio de informações organizadas e indicadores apresentados de forma clara, permitindo que a equipe responsável tenha uma visão mais ampla da situação escolar. A partir desses dados, será possível identificar alunos que apresentem sinais de risco de evasão e direcionar o acompanhamento de maneira mais rápida e organizada.
 
 O projeto busca, portanto, utilizar a tecnologia como ferramenta de apoio à gestão educacional, contribuindo para que as instituições tenham maior controle sobre os dados de frequência e possam agir de forma preventiva diante de possíveis casos de evasão.
+
+## Problema:
+
+A ausência de um acompanhamento centralizado e ágil dos dados de frequência pode dificultar a identificação de estudantes que apresentam baixa assiduidade e possíveis sinais de evasão escolar. Dessa forma, torna-se necessário utilizar recursos que auxiliem as instituições de ensino a acompanhar essas informações e agir de maneira preventiva.
+
+## Link do desafio escolhido na plataforma CORETO: 
+
+https://coreto.app.emprel.gov.br/banco-de-bo/monitoramento-da-evasao-escolar-em-tempo-real
 
 ## Objetivo:
 
@@ -42,10 +46,6 @@ A solução será direcionada principalmente a:
 * Instituições de ensino.
 
 Os estudantes também serão beneficiados de forma indireta, por meio de um acompanhamento mais organizado e preventivo.
-
-## Problema:
-
-A ausência de um acompanhamento centralizado e ágil dos dados de frequência pode dificultar a identificação de estudantes que apresentam baixa assiduidade e possíveis sinais de evasão escolar. Dessa forma, torna-se necessário utilizar recursos que auxiliem as instituições de ensino a acompanhar essas informações e agir de maneira preventiva.
 
 ## Proposta de Solução:
 
