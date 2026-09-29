@@ -24,11 +24,11 @@ A solução deverá possibilitar o acompanhamento dos estudantes por meio de inf
 
 O projeto busca, portanto, utilizar a tecnologia como ferramenta de apoio à gestão educacional, contribuindo para que as instituições tenham maior controle sobre os dados de frequência e possam agir de forma preventiva diante de possíveis casos de evasão.
 
-## Objetivo
+## Objetivo:
 
 Desenvolver uma solução para monitorar, organizar e apresentar dados relacionados à frequência escolar, permitindo identificar possíveis situações de risco de evasão e auxiliar gestores e equipes pedagógicas no acompanhamento dos estudantes.
 
-## Público Beneficiado
+## Público Beneficiado:
 
 A solução será direcionada principalmente a:
 
@@ -39,10 +39,14 @@ A solução será direcionada principalmente a:
 
 Os estudantes também serão beneficiados de forma indireta, por meio de um acompanhamento mais organizado e preventivo.
 
-## Problema
+## Problema:
 
 A ausência de um acompanhamento centralizado e ágil dos dados de frequência pode dificultar a identificação de estudantes que apresentam baixa assiduidade e possíveis sinais de evasão escolar. Dessa forma, torna-se necessário utilizar recursos que auxiliem as instituições de ensino a acompanhar essas informações e agir de maneira preventiva.
 
-## Proposta de Solução
+## Proposta de Solução:
 
 A proposta consiste em desenvolver um sistema de monitoramento que reúna informações relacionadas à frequência dos estudantes e apresente indicadores de forma visual e organizada. O sistema deverá auxiliar na identificação de alunos que necessitam de maior atenção, permitindo que gestores e equipes pedagógicas acompanhem a situação e possam tomar decisões com base nos dados disponíveis.
+
+## Tecnologias Previstas:
+
+As tecnologias que serão utilizadas no desenvolvimento da solução ainda estão em processo de definição pela equipe e serão estabelecidas de acordo com os requisitos e necessidades identificados ao longo do projeto. 
