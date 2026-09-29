@@ -2,15 +2,15 @@
 
 Guilherme Pietro Luna Diniz - 01576841 : Banco de dados e Back-end.
 
-Jenyffer Mery Gomes Andrade: Gestão do projeto e documentação.
+Jenyffer Mery Gomes Andrade - 01599642 : Gestão do projeto e documentação.
 
-Luiz Vinicius Lima da Silva: Desenvolvimento e estruturação do Front-end.
+Luiz Vinicius Lima da Silva - 01603161 : Desenvolvimento e estruturação do Front-end.
 
-Matheus José dos Santos Silva: Análise de requisitos e regras de negócio.
+Matheus José dos Santos Silva - 01597670 : Análise de requisitos e regras de negócio.
 
-Ronaldo de Souza Paixão Júnior: UX/UI e prototipação.
+Ronaldo de Souza Paixão Júnior - 01604034 : UX/UI e prototipação.
 
-Rosilene da Silva Lima: Dashboard e análise de dados
+Rosilene da Silva Lima - 01619051 : Dashboard e análise de dados.
 
 
 
