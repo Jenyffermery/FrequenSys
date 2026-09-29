@@ -1,5 +1,7 @@
 # FrequenSys
 
+## Nome dos integrantes e suas responsabilidades iniciais:
+
 Guilherme Pietro Luna Diniz - 01576841 : Banco de dados e Back-end.
 
 Jenyffer Mery Gomes Andrade - 01599642 : Gestão do projeto e documentação.
@@ -12,7 +14,9 @@ Ronaldo de Souza Paixão Júnior - 01604034 : UX/UI e prototipação.
 
 Rosilene da Silva Lima - 01619051 : Dashboard e análise de dados.
 
+## Link do desafio escolhido na plataforma CORETO: 
 
+https://coreto.app.emprel.gov.br/banco-de-bo/monitoramento-da-evasao-escolar-em-tempo-real
 
 # Monitoramento da Evasão Escolar em Tempo Real:
 
