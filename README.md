@@ -1,15 +1,20 @@
 # FrequenSys
 
 Guilherme Pietro Luna Diniz - 01576841 : Banco de dados e Back-end.
+
 Jenyffer Mery Gomes Andrade: Gestão do projeto e documentação.
+
 Luiz Vinicius Lima da Silva: Desenvolvimento e estruturação do Front-end.
+
 Matheus José dos Santos Silva: Análise de requisitos e regras de negócio.
+
 Ronaldo de Souza Paixão Júnior: UX/UI e prototipação.
+
 Rosilene da Silva Lima: Dashboard e análise de dados
 
 
 
-# Monitoramento da Evasão Escolar em Tempo Real
+# Monitoramento da Evasão Escolar em Tempo Real:
 
 A evasão escolar é um problema que pode comprometer a continuidade da formação dos estudantes e dificultar o acompanhamento de situações que podem levar ao abandono escolar. Quando informações relacionadas à frequência e à participação dos alunos não são acompanhadas de forma adequada e em tempo hábil, a instituição de ensino pode encontrar dificuldades para identificar estudantes que necessitam de atenção e intervenção.
 
