@@ -14,7 +14,7 @@ Ronaldo de Souza Paixão Júnior - 01604034 : UX/UI e prototipação.
 
 Rosilene da Silva Lima - 01619051 : Dashboard e análise de dados.
 
-# Monitoramento da Evasão Escolar em Tempo Real:
+## Monitoramento da Evasão Escolar em Tempo Real:
 
 A evasão escolar é um problema que pode comprometer a continuidade da formação dos estudantes e dificultar o acompanhamento de situações que podem levar ao abandono escolar. Quando informações relacionadas à frequência e à participação dos alunos não são acompanhadas de forma adequada e em tempo hábil, a instituição de ensino pode encontrar dificuldades para identificar estudantes que necessitam de atenção e intervenção.
 
