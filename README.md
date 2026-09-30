@@ -4,15 +4,13 @@
 
 Guilherme Pietro Luna Diniz - 01576841 : Banco de dados e Back-end.
 
-Jenyffer Mery Gomes Andrade - 01599642 : Gestão do projeto e documentação.
+Jenyffer Mery Gomes Andrade - 01599642 : Gestão do projeto, documentação e regras de negócio.
 
 Luiz Vinicius Lima da Silva - 01603161 : Desenvolvimento e estruturação do Front-end.
 
-Matheus José dos Santos Silva - 01597670 : Análise de requisitos e regras de negócio.
-
 Ronaldo de Souza Paixão Júnior - 01604034 : UX/UI e prototipação.
 
-Rosilene da Silva Lima - 01619051 : Dashboard e análise de dados.
+Rosilene da Silva Lima - 01619051 : Dashboard, análise de dados e análise de requisitos.
 
 ## Monitoramento da Evasão Escolar em Tempo Real:
 
